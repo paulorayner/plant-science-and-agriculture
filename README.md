@@ -1,9 +1,16 @@
 # plant-science-and-agriculture
+[![author](https://img.shields.io/badge/author-paulorayner-red.svg)](https://www.linkedin.com/in/paulo-marcelo-rayner-oliveira/)
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)]()
 
-The objective of this repository is analyze data related to Plant Science and Agriculture.
+* [LinkedIn](https://www.linkedin.com/in/paulo-marcelo-rayner-oliveira/)
+
+## Objective 
+
+The objective of this repository is to analyze data related to Plant Science and Agriculture.
 
 ## Projects
 
+* **Project 1**
 
 
 
