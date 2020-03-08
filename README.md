@@ -10,7 +10,7 @@ The objective of this repository is to analyze data related to Plant Science and
 
 ## Projects
 
-* **Project 1**
+* **Project 1** 
 
 
 
