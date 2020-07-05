@@ -1,2 +1,7 @@
-The data can be downloaded by the website of Comissão Nacional de Abastecimento - Conaba by the link 
+The data was downloaded at the website of Comissão Nacional de Abastecimento - Conaba by the link below
+https://www.conab.gov.br/info-agro/safras/serie-historica-das-safras/item/download/32069_39f7095a29eb00aa7c2135561debfc5e
+After the download, the dataset layout was manipulated in order to allow the work-friendly
+
+The page with dataset named 'Soja' (Soybean) can be accessed by the link below
 https://www.conab.gov.br/info-agro/safras/serie-historica-das-safras?start=30
+The page titl is 'Série Histórica das Safras' (Time Series of Harvests).
