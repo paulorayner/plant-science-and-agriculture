@@ -10,7 +10,7 @@ The objective of this repository is to analyze data related to Plant Science and
 
 ## Projects
 
-* **El niño occurrence and Brazilian Soybean Production** 
+* **[El niño occurrence and Brazilian Soybean Production](https://github.com/paulorayner/plant-science-and-agriculture/blob/master/El_nino_occurrence_and_soybean_production.ipynb)** 
 
 
 
